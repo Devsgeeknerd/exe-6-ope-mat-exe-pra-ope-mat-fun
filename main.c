@@ -27,6 +27,6 @@ void main()
 
     // Exibe o custo final do carro com duas casas decimais.
     printf("O custo final do carro sera de : %0.2f", custoFinal);
-    // Retorna "0" para indicar que o programa terminou com sucesso.
+    // Retorna '0' para indicar que o programa terminou com sucesso.
     return 0;
 }
